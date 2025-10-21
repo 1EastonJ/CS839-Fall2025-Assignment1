@@ -52,8 +52,4 @@ videos/
 **Author:** Easton
 **Course:** CS839 – Reinforcement Learning (Fall 2025)
 
-```
 
----
-
-```
